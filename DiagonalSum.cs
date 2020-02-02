@@ -1,6 +1,9 @@
-//Given an array of integers, calculate the fractions of its elements that are positive, negative, and are zeros.Print the decimal value of each fraction on a new line.
-//Note: This challenge introduces precision problems.The test cases are scaled to six decimal places, though answers with absolute error of up to are acceptable.
-//For example, given the array  there are  elements, two positive, two negative and one zero.Their ratios would be , and.It should be printed as
+//Given a square matrix, calculate the absolute difference between the sums of its diagonals.
+//For example, the square matrix  is shown below:
+//1 2 3
+//4 5 6
+//9 8 9  
+//The left-to-right diagonal = .The right to left diagonal = .Their absolute difference is .
 using System;
 using System.Collections.Generic;
 using System.Linq;
